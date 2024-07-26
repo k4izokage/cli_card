@@ -1,0 +1,31 @@
+{
+  "name": "k4izokage",
+  "version": "1.0.2",
+  "description": "A personal cli card for @k4izokage",
+  "main": "index.mjs",
+  "bin": {
+    "k4izokage": "./index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k4izokage/cli_card.git"
+  },
+  "scripts": {
+    "dev": "node ./index.mjs"
+  },
+  "dependencies": {
+    "boxen": "^8.0.0",
+    "chalk": "^5.3.0",
+    "clear": "^0.1.0"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "author": "k4izokage <k4izokage@gmail.com> (https://github.com/k4izokage/)",
+  "license": "ISC"
+}

@@ -7,9 +7,14 @@ const intro = `${chalk.bold("Hi, I'm")} ${chalk.yellow.italic("k4izokage")}, ${c
 
 const links = [
     {
-        name: chalk.white.bold("Website:"),
-        url: chalk.green("https://k4izokage.vercel.app/")
+        name: chalk.white.bold("Email:"),
+        url: chalk.magenta("kaizokage@duck.com")
     },
+    {
+        name: chalk.white.bold("Website:"),
+        url: chalk.green("https://kaizokage.dev/")
+    },
+    {name: "",url: ""},
     {
         name: chalk.white.bold("GitHub:"),
         url: chalk.gray("https://github.com/") + chalk.white("k4izokage"),

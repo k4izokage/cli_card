@@ -1,6 +1,6 @@
 {
   "name": "k4izokage",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "A personal cli card for @k4izokage",
   "main": "index.mjs",
   "bin": {
@@ -14,8 +14,13 @@
     "dev": "node ./index.mjs"
   },
   "dependencies": {
-    "boxen": "^8.0.0",
-    "chalk": "^5.3.0"
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "cli-spinners": "^2.9.2",
+    "download": "^8.0.0",
+    "inquirer": "^9.3.6",
+    "open": "^10.1.0",
+    "ora": "^8.0.1"
   },
   "keywords": [
     "card",

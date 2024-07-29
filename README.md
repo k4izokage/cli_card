@@ -1,4 +1,5 @@
 <div align="center">
+
 <h3>My `cli card` to connect with me directly via console or terminal</h3>
 
 [![npm version](https://badge.fury.io/js/k4izokage.svg)](https://badge.fury.io/js/k4izokage)
@@ -20,4 +21,5 @@ npx k4izokage
 </div>
 
 ## 📌 Credits
+- [Anmol Singh / npx_card](https://github.com/anmol098/npx_card)
 - [Salma Alam-Naylor's blog](https://whitep4nth3r.com/blog/build-a-business-card-cli-tool/)

@@ -1,10 +1,4 @@
-<div align="center">
-
-<h3>My `cli card` to connect with me directly via console or terminal</h3>
-
-<a href="https://badge.fury.io/js/k4izokage"><img src="https://badge.fury.io/js/k4izokage.svg" alt="npm version" height="18"></a>
-
-</div>
+<h3 align="center">My `cli card` to connect with me directly via console or terminal</h3>
 
 ## 📦 How to use it?
 1. Open your terminal.
@@ -17,7 +11,7 @@ npx k4izokage
 ## 📷 Screenshot
 <div align="center">
     <p>⚠️ blurred the url for your own exploration</p>
-    <img src="./cli_screenshot.webp" alt="K4izokage's NPX Card" />
+    <img src="./screenshot.webp" alt="K4izokage's NPX Card" />
 </div>
 
 ## 📌 Credits
